@@ -1,0 +1,7 @@
+Elige una de las siguiente opciones 
+
+Opcion *1*: Camisetas Actuales 
+Opcion *2*: Camisetas Retro
+Opcion *3*: Balones 
+Opcion *4*: Otros
+Opcion *Menu* o 0 : Volver al Menu Prinicipal 

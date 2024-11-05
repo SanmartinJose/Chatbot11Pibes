@@ -1,0 +1,130 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '593969386949@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0D71DF39F30DEC68414',
+    participant: undefined
+  },
+  messageTimestamp: 1730811555,
+  pushName: '🇪🇨𝛅֟፝𝛋𝛌༆CAMELOT░⃟🐉ᵗᵐˣ',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: 'hola',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: 'hola',
+  from: '593969386949'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d9377dd-5d55-4edb-913a-2d0c3c2c62c5',
+  keyword: 'key_cdc2dc65-4f8e-457e-bd52-e6dae38b1ac9',
+  answer: 'Hola, soy Josue, de 11 Pibes es un gusto en saludarte',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b331b108ca644128b06417639c2213d0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_946b07f7-22ef-4f17-b89c-065c75ab170f',
+  keyword: 'ans_5d9377dd-5d55-4edb-913a-2d0c3c2c62c5',
+  answer: '¿En que te puedo ayudar hoy?\n' +
+    'Por favor selecciona una de las opciones: \n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9979135c59bc7f308fbb722421f8d559'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '593969386949@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB0935076055AB469A96B',
+    participant: undefined
+  },
+  messageTimestamp: 1730811746,
+  pushName: '🇪🇨𝛅֟፝𝛋𝛌༆CAMELOT░⃟🐉ᵗᵐˣ',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: "const flowString = addKeyword('hola').addAnswer('Este mensaje envia una imagen', {\n" +
+        "            media: 'c:/ruta/imagen.png', //'c:\\ruta\\imagen.png'\n" +
+        '    })',
+      contextInfo: [ContextInfo],
+      inviteLinkGroupTypeV2: 0
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  },
+  body: "const flowString = addKeyword('hola').addAnswer('Este mensaje envia una imagen', {\n" +
+    "            media: 'c:/ruta/imagen.png', //'c:\\ruta\\imagen.png'\n" +
+    '    })',
+  from: '593969386949'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_5d9377dd-5d55-4edb-913a-2d0c3c2c62c5',
+  keyword: 'key_cdc2dc65-4f8e-457e-bd52-e6dae38b1ac9',
+  answer: 'Hola, soy Josue, de 11 Pibes es un gusto en saludarte',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: false
+  },
+  refSerialize: 'b331b108ca644128b06417639c2213d0'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_946b07f7-22ef-4f17-b89c-065c75ab170f',
+  keyword: 'ans_5d9377dd-5d55-4edb-913a-2d0c3c2c62c5',
+  answer: '¿En que te puedo ayudar hoy?\n' +
+    'Por favor selecciona una de las opciones: \n' +
+    '[object Object]',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '9979135c59bc7f308fbb722421f8d559'
+}
